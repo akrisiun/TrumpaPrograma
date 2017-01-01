@@ -9,6 +9,10 @@ git checkout https://github.com/akrisiun/TrumpaPrograma
 open -a xcode
 ```
 
+# Storyboard tutorial
+
+https://www.youtube.com/watch?v=JdILTEFVhVA
+
 # Sandbox console 
 
 ```

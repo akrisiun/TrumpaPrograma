@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93A75B5A90EC6DB2D4EECEDD58ED3CE4A30140A6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "87689B71D8B4B03CD41484A1101586AF74C9E07B" : 9223372036854775807,
+    "93A75B5A90EC6DB2D4EECEDD58ED3CE4A30140A6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E304E6F6-028A-4988-9315-8ED108C69854",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "87689B71D8B4B03CD41484A1101586AF74C9E07B" : "..",
+    "93A75B5A90EC6DB2D4EECEDD58ED3CE4A30140A6" : "TrumpaPrograma\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TrumpaPrograma",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TrumpaPrograma.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/bitbucket.org\/andriusk\/darwin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "87689B71D8B4B03CD41484A1101586AF74C9E07B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/akrisiun\/TrumpaPrograma.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93A75B5A90EC6DB2D4EECEDD58ED3CE4A30140A6"
+    }
+  ]
+}
