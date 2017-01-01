@@ -12,7 +12,7 @@ open -a xcode
 # Storyboard tutorial
 
 https://www.youtube.com/watch?v=JdILTEFVhVA  
-Some sounds http://muslimsinww1.com/
+Some sounds http://www.muslimsinww1.com
 
 # Sandbox console 
 
