@@ -11,10 +11,10 @@ open -a xcode
 
 # Storyboard tutorial
 
-WkwebView: https://www.hackingwithswift.com/read/4/2/creating-a-simple-browser-with-wkwebview
-Storyboard: https://www.youtube.com/watch?v=JdILTEFVhVA
-Sounds; http://jsfiddle.net/aarongloege/rQv5h/?utm_source=website&utm_medium=embed&utm_campaign=rQv5h
-http://www.ibm.com/developerworks/library/wa-ioshtml5/
+WkwebView: https://www.hackingwithswift.com/read/4/2/creating-a-simple-browser-with-wkwebview  
+Storyboard: https://www.youtube.com/watch?v=JdILTEFVhVA  
+Sounds; http://jsfiddle.net/aarongloege/rQv5h/?utm_source=website&utm_medium=embed&utm_campaign=rQv5h  
+http://www.ibm.com/developerworks/library/wa-ioshtml5/  
 
 # Sandbox console 
 
