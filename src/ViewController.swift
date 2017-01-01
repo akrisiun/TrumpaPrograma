@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     {
         super.viewDidLoad()
         
-        if let url = URL(string: "https://github.com/akrisiun/trumpaprograma")
+        if let url = URL(string: "https://github.com/akrisiun/TrumpaPrograma/blob/master/README.md")
         {
             let req = URLRequest(url: url)
             
